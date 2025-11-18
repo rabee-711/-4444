@@ -1,0 +1,5 @@
+{
+  "name": "AI Social Post Generator",
+  "description": "An AI-powered application that generates images, videos, and captions from a text prompt, ready to be shared on social media platforms.",
+  "requestFramePermissions": []
+}
